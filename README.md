@@ -1,8 +1,10 @@
-# React + Vite
+# Exploring React as a Vue.js Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this repository, my goal is to delve into React technology, starting from the basics, and thoroughly understand its behavior in comparison to Vue. I intend to learn every intricate detail, progressing step by step in order to gain a comprehensive understanding of React.
 
-Currently, two official plugins are available:
+## Running Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Execute yarn to install the necessary packages.
+2. Launch the Vite development server with yarn dev to initiate the project.
+3. Generate JavaScript and CSS files for the release by running yarn build.
+4. Once you've completed the yarn build process and your assets are generated, utilize yarn preview to locally preview the production build.
