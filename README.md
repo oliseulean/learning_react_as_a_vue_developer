@@ -4,7 +4,7 @@ In this repository, my goal is to delve into React technology, starting from the
 
 ## Running Locally
 
-1. Execute yarn to install the necessary packages.
-2. Launch the Vite development server with yarn dev to initiate the project.
-3. Generate JavaScript and CSS files for the release by running yarn build.
-4. Once you've completed the yarn build process and your assets are generated, utilize yarn preview to locally preview the production build.
+1. Execute `yarn` to install the necessary packages.
+2. Launch the Vite development server with `yarn dev` to initiate the project.
+3. Generate JavaScript and CSS files for the release by running `yarn build`.
+4. Once you've completed the `yarn build` process and your assets are generated, utilize `yarn preview` to locally preview the production build.
